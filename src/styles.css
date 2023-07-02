@@ -83,3 +83,9 @@ p {
   color: white;
   text-decoration: none;
 }
+@media (max-width:600px) {
+  .responsive{
+    width: 100%;
+    height: auto;
+  }
+}
