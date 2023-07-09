@@ -228,6 +228,7 @@ margin: -20px;
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 /* Add a hover effect if you want */
 .fa:hover {
   opacity: 0.7;
@@ -304,3 +305,11 @@ font-weight: 700;
 line-height: normal;
 margin: 250px 600px 250px 144px;
 }
+=======
+@media (max-width:600px) {
+  .responsive{
+    width: 100%;
+    height: auto;
+  }
+}
+>>>>>>> 40b9b9f365856ac38e6a5c576db43b0b55957e9c
